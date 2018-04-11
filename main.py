@@ -34,7 +34,7 @@ def header():
     print('CSE 415 Project 3, Option 3 - Supervised Learning: Comparing Trainable Classifiers'.center(96, ' '), end='')
     print('#')
     print('# ',end='')
-    print('Akshit Patel, Wanji Tang'.center(96, ' '), end='')
+    print('Akshit Patel, Wanjia Tang'.center(96, ' '), end='')
     print('#')
     for j in range(2):
         print('#', end='')
